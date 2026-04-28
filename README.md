@@ -26,6 +26,11 @@
 |---|---|
 | [Just-In-Time Function Pointer Injection](./reverse-engineering/jitfp.md) | Runtime memory analysis, Linux `ptrace`, `/proc/<pid>/mem`, PIE ELF |
 
+### Binary Exploitation
+
+| Title | Focus |
+|---|---|
+| [Heap Havoc – Heap-Based Function Pointer Hijacking](./binary-exploitation/heap-havoc/) | Heap overflow analysis, function pointer corruption, control-flow redirection |
 
 ---
 
@@ -34,3 +39,12 @@
 ```txt
 reverse-engineering/
   jitfp.md
+
+binary-exploitation/
+  README.md
+  heap-havoc/
+    README.md
+    exploit.py
+    vuln.c
+    notes.md
+```
