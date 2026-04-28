@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.zsigma.ai">
-    <img src="https://raw.githubusercontent.com/ZeroDayZeus/personal-inflation-tracker/main/zsigma1.png" alt="zSigma logo" width="120">
+   <img src="./assets/logo.png" alt="zSigma logo" width="180">
   </a>
 </p>
 
