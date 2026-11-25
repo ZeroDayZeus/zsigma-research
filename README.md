@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">zSigma Research</h1>
+<h1 align="center">ZSIGMA Research</h1>
 
 <p align="center">
   Technical research notes, reverse engineering case studies, and security analysis.
